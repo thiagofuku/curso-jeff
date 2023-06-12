@@ -85,3 +85,4 @@ contract AluguelContract is ControleDePermissoes {
     }
     
 }
+//0x67795074945F650C7C97408A9C04F7E1d2CB0974
